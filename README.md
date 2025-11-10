@@ -36,8 +36,7 @@ flutter run -d chrome  # pour tester rapidement dans un navigateur
 
 ## Structure du projet
 
-- `lib/` : écran principal et composants.
-- `assets/images/` : ressources graphiques (logo temporaire Flutter).
+- `lib/` : écran principal et composants UI.
 - `test/` : tests unitaires Flutter.
 
 ## Licence
